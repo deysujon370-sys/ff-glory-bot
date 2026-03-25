@@ -1,0 +1,11 @@
+{
+  "name": "ff-glory-bot",
+  "version": "1.0.0",
+  "description": "Free Fire Glory Tracker",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "qrcode-terminal": "latest",
+    "express": "latest"
+  }
+}
